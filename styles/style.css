@@ -112,3 +112,57 @@
 .action-div{
     padding: 62.5px 220px 62.5px 0;
 }
+/* productive section */
+.main{
+    width: 1140px;
+}
+       
+.productive-section{
+    background-color:#a29eff ;
+    margin: 116px 159px 137px 141px;
+    width: 1140px:
+    
+    border-radius: 24px;
+
+}
+.productives{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.Productive-title{
+    font-size: 38px;
+    color: #252432;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+.productive-contain{
+
+}
+.productive-div{
+    padding: 50px 102px 50px 95px;
+}
+.productive-contain{
+    width: 856px;
+  
+    gap: 150px;
+    margin: 40px 132px 40px 102px ;
+    
+}
+.productive-data{
+    color: #4E47FF;
+   
+   
+    font-size: 70px;
+    font-weight: bold;
+
+}
+.productive-description{
+    color: #000000;
+    font-size: 17px;
+    height: 24px;
+    width: 120px;
+}
+
