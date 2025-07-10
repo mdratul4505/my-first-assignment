@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* color style */
+.color{
+    
+}
+/* nav styles */
+.navber{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 51.5px ;
+    height: 151px;
+    width:  1140px;
+    margin: 0 150px;
+
+}
+.nav-title{
+    width: 99px;
+    height: 51px;
+    font-size: 34px;
+    color: #4E47FF;
+}
+.nav-btn{
+    width: 132px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+
+}
